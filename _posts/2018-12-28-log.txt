@@ -1,0 +1,3 @@
+Today, I have made a new repository in my Github. I did this clicking the 'Create' button on my homepage. 
+After the repo was made, I had to perform the git functions in my computer's CMD. 
+I initialized the repo and pushed it to github. Afterwards, I made the '_posts' folder, in which contains the daily log for today.
