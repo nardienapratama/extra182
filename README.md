@@ -1,4 +1,5 @@
-<!-- # Welcome, Visitor! :]
+# Welcome, Visitor! :]
+---
 
 This is my extra182 blog for Operating Systems.
 
@@ -21,4 +22,4 @@ Logs
 > Hopefully, all goes well in this project.
 > Thanks for visiting :)
 
-N.A.P. -->
+N.A.P.
