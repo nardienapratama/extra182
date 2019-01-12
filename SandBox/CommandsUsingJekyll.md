@@ -1,16 +1,23 @@
-### 1. Afterwards, on the same directory, create a new Jekyll site using:
+# How to Integrate Your GitHub Repository with Jekyll
+-----
+
+### First Step
+
+1. Afterwards, on the same directory, create a new Jekyll site using:
 ```
 jekyll new NAME-OF-SITE
 ```
 ```
 cd NAME-OF-SITE
 ```
-### 2. Then, copy all of the folders and files inside of this directory to our GitHub repository. In this example, the name of the GitHub repository is called 'test'.
+### Second Step
+2. Then, copy all of the folders and files inside of this directory to our GitHub repository. In this example, the name of the GitHub repository is called 'test'.
 
 ![img](https://raw.githubusercontent.com/nardienapratama/extra182/master/img/pathddrive.JPG)
 
 
-### 3. Then, we want to commit these changes to our repository. Open command prompt in this directory. Then, run these commands:
+### Third Step
+3. Then, we want to commit these changes to our repository. Open command prompt in this directory. Then, run these commands:
 
 ```
 git status
