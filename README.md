@@ -9,11 +9,11 @@ I will be writing daily logs starting from today onwards during this project.
 
 Logs
 ------
-- [Log Day 1](2018/12/28/log.html)
+<!-- - [Log Day 1](2018/12/28/log.html)
 - [Log Day 2](2018/12/29/log.html)
-- [Log Day 3](2018/12/30/log.html)
+- [Log Day 3](2018/12/30/log.html) -->
 
-
+You can find my daily posts in the 'posts' folder in my repository.
 
 
 
