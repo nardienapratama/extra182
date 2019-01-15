@@ -1,9 +1,7 @@
 ---
 layout: default
+title: Github Pages Tutorials	: v.8.1.2019
 ---
-
-# Github Pages Tutorials	: v.8.1.2019
-----
 
 These are the steps you need for creating your GitHub Pages
 
@@ -23,14 +21,14 @@ It only needs your Username, E-mail, and Password
 
 ![img](https://raw.githubusercontent.com/UI-FASILKOM-OS/extra182/master/SandBox/wahyuadt/ScreenShot/GitHub.png)
 
-Then you will recieve an account verification link via Email
+Then you will receive an account verification link via Email
 
 
 ### 2. Create a New Repository
 
 (Time Estimation : less than 10 minutes)
 
-If you already logged in, the GitHub home pages will display the list of your owned repository. 
+If you already logged in, the GitHub home pages will display the list of your owned repository.
 Press the green New button on the top right
 
 
@@ -69,5 +67,3 @@ On the Website field, write down your github pages link, this will make you easi
 Your Github Pages have built and published when there is the green bar which states "Your site is published at https://username.github.io/reponame"
 
 Now that u have finished setting up your github pages setting, you can now access your GitHub Pages
-
-

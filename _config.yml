@@ -28,7 +28,8 @@ github_username:  nardienapratama
 # Build settings
 author: Nardiéna Althafia Pratama
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-architect
+repository: nardienapratama/extra182
 plugins:
   - jekyll-feed
 
