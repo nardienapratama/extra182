@@ -22,10 +22,10 @@ I will be writing daily logs starting from today onwards during this project.
 - [Log Day 2](2018/12/29/log.html)
 - [Log Day 3](2018/12/30/log.html) -->
 Some of the tutorials relating to Jekyll:
-- [How to Create GitHub Pages](/tutorials/2019-01-09-GitHubPages.html)
-- [How to Install Ruby and Jekyll](/tutorials/2019-01-09-RubyandJekyllInstallation.html)
-- [How to Change Jekyll Theme](/tutorials/ChangeJekyllTheme.html)
-- [How to Integrate Your GitHub Repository with Jekyll](/tutorials/CommandsUsingJekyll.html)
+- [How to Create GitHub Pages](extra182/tutorials/2019-01-09-GitHubPages.html)
+- [How to Install Ruby and Jekyll](extra182/tutorials/2019-01-09-RubyandJekyllInstallation.html)
+- [How to Change Jekyll Theme](extra182/tutorials/ChangeJekyllTheme.html)
+- [How to Integrate Your GitHub Repository with Jekyll](extra182/tutorials/CommandsUsingJekyll.html)
 
 
 
