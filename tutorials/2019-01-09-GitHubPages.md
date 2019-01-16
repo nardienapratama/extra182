@@ -6,9 +6,7 @@ title: Github Pages Tutorials	: v.8.1.2019
 These are the steps you need for creating your GitHub Pages
 
 
-## Tutorial
-
-if you already have a GitHub account, skip to step 2.
+If you already have a GitHub account, skip to step 2.
 
 ### 1. Creating Your GitHub Account
 

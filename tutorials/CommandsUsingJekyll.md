@@ -1,8 +1,9 @@
 ---
 layout: default
+title: How to Integrate Your GitHub Repository with Jekyll
 ---
 
-# How to Integrate Your GitHub Repository with Jekyll
+<!-- # How to Integrate Your GitHub Repository with Jekyll -->
 ----
 ### Step 1
 Afterwards, on the same directory, create a new Jekyll site using:
