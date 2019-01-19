@@ -25,7 +25,8 @@ Some of the tutorials relating to Jekyll:
 - [How to Create GitHub Pages](tutorials/2019-01-09-GitHubPages.html)
 - [How to Install Ruby and Jekyll](tutorials/2019-01-09-RubyandJekyllInstallation.html)
 - [How to Change Jekyll Theme](tutorials/ChangeJekyllTheme.html)
-- [How to Integrate Your GitHub Repository with Jekyll](tutorials/CommandsUsingJekyll.html)
+- [How to Integrate Your GitHub Repository with Jekyll](tutorials/HowtoIntegrateYourGitHubRepositorywithJekyll.html)
+
 
 
 
