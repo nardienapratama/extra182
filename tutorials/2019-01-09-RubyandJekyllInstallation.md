@@ -3,7 +3,7 @@ layout: default
 title: Ruby and Jekyll Installation Step-by-step
 ---
 
-<!-- # Ruby and Jekyll Installation Step-by-step -->
+# Ruby and Jekyll Installation Step-by-step
 ----
 
 ### Step 1

@@ -3,7 +3,7 @@ layout: default
 title: How to Integrate Your GitHub Repository with Jekyll
 ---
 
-<!-- # How to Integrate Your GitHub Repository with Jekyll -->
+# How to Integrate Your GitHub Repository with Jekyll
 ----
 ### Step 1
 Firstly, you need to clone your GitHub repository to your local system.
